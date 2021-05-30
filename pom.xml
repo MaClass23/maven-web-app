@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.205.26.194:8081/repository/boa-web-releases/</url>
+	      <url>http://18.205.26.194:8081/repository/mamz-web-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.205.26.194:8081/repository/boa-web-snapshot/</url>
+	      <url>http://18.205.26.194:8081/repository/mamz-web-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
