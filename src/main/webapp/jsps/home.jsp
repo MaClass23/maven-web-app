@@ -9,12 +9,13 @@
 </head>
 </head>
 <body>
-<h1 align="center">Landmark Technology  --> A Metropolitan University Company</h1>
-<h2 align="center"> Welcome to Landmark Technology..... We have a demo on DevOps E Degree Master Class with Linux, python and AWS on saturday March 27, 2021 at 8am EST for our new batch.
-	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Engineers. 
-	We offer interview preparations and job assitance.
-	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY</h2>
-<hr>
+<h1 align="center">Mamz Fashion House  --> A Multicultural Fashion Shop</h1>
+<h2 align="center"> Welcome to Mamz Fashion..... We will be having a fashion show on Saturday June 2021 at 8am EST during which we will be showcasing our most recent and exquisit designs.
+	Mamz Fashion is an Ideal ONE-STOP for all your fashion needs. We sale only the best and at very affordable prices. We are specialized in bringing out the beauty in everyone. 
+	Your beauty is our priority. Give us an opportunity to bring out the beauty in you.
+	Come and have a taste of Fashion and Beauty.  Come One, Come All</h2>
+<!--
+	<hr>
 <div style="text-align: center;">
 	<span>
 		<img src="images/logo.jpg" alt="" width="100">
@@ -37,3 +38,4 @@
 
 </body>
 </html>
+-->
